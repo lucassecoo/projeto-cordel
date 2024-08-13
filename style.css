@@ -58,6 +58,10 @@ section > p{
     font-family: "Sriracha";
 }
 
+.normal{
+    background-color: white;
+}
+
 #s2{
     background-image: url(imagens/background001.jpg);
     background-position: right center;
